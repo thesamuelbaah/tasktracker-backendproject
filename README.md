@@ -2,7 +2,7 @@
 
 A simple backend API for managing tasks built using **Spring Boot** and **PostgreSQL**. This project allows users to:
 - Add, update, and delete tasks.
-- Mark tasks as "in progress" or "done."
+- Mark tasks as "in progress", "to-do", "done" , "not done."
 - List all tasks or filter tasks by their status.
 
 ## Features
